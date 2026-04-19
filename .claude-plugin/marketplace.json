@@ -1,6 +1,5 @@
 {
   "name": "skillweave",
-  "description": "Claude Code plugin marketplace for the SkillWeave ecosystem.",
   "owner": {
     "name": "Anton Swartz",
     "email": "a@c4.io"
