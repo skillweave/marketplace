@@ -1,0 +1,8 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Claude Code per-clone settings
+.claude/settings.local.json

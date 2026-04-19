@@ -1,0 +1,11 @@
+# Ownership for skillweave/marketplace
+#
+# Primary: @necrogami
+# Backup:  @wowasshi
+#
+# Every file in this repo requires review from the primary or backup
+# owner before merging to main. The marketplace manifest is the single
+# source of truth for what `loom@skillweave` resolves to in users' plugin
+# caches — treat changes as release-grade.
+
+* @necrogami @wowasshi

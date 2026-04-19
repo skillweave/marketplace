@@ -1,0 +1,23 @@
+{
+  "name": "skillweave",
+  "description": "Claude Code plugin marketplace for the SkillWeave ecosystem.",
+  "owner": {
+    "name": "Anton Swartz",
+    "email": "a@c4.io"
+  },
+  "plugins": [
+    {
+      "name": "loom",
+      "description": "Universal Claude Code plugin: skills, agents, first-class team templates, hooks. Pre-alpha — scaffold only.",
+      "version": "0.1.0-alpha.1",
+      "source": {
+        "source": "github",
+        "repo": "skillweave/loom"
+      },
+      "author": {
+        "name": "Anton Swartz",
+        "email": "a@c4.io"
+      }
+    }
+  ]
+}
